@@ -6,7 +6,7 @@
             "title":"Red One piece",
             "description":"Maroon and olive green printed woven maxi dress, has a shirt collar, short sleeves, button closure and flared hem. Replace some of your outdated essentials with this beautiful dress from U&F. When you're going to an art gallery opening or the theater, wear this printed maroon piece with platform heels and a trendy clutch.",
             "price": 999,
-            "availableSizes": ["X","XL","XXL"]
+            "availableSizes": ["XS","L","XL"]
         },
         {
             "_id":"dress2",
@@ -14,7 +14,7 @@
             "title":"Smurphy Like White leather Jacket",
             "description":"Black solid faux leather jacket, has a mock collar, two pockets, zip closure, long sleeves, straight hem, polyester lining",
             "price": 1299,
-            "availableSizes": ["S","M","XL","XXL"]
+            "availableSizes": ["S","XL","XXL"]
         },
         {
             "_id":"dress3",
@@ -22,7 +22,7 @@
             "title":"Pure Leopard Black Jacket",
             "description":"Care Instructions machine was  Terpin Point III Full Zip Outdoor Fleece Jacket             This superbly soft, warm heritage sweater fleece features a heathered effect for texture",
             "price": 1599,
-            "availableSizes": ["S","M","L"]
+            "availableSizes": ["XS","S","M"]
         },
         {
             "_id":"dress4",
@@ -30,7 +30,7 @@
             "title":"Two piece black Top and Skirt",
             "description":"The above the knee hemline creates a short and sassy look that makes gives you a long-legged slimming look. The outfit is designed to not only show off your legs but also to keep you cool and comfortable.",
             "price": 3999,
-            "availableSizes": ["M","XL"]
+            "availableSizes": ["XL"]
         },
         {
             "_id":"dress5",
@@ -38,7 +38,7 @@
             "title":"Peace Boney T-shirt(Black)",
             "description":"The empire waistline will elongate your torso for a slimming effect on your figure and without any sleeves to get in your way of fun this dress shows off a jazzy look for those warm summer nights.",
             "price": 599,
-            "availableSizes": ["S","M","X","XL","XXL"]
+            "availableSizes": ["S","XXL"]
         },
         {
             "_id":"dress6",
@@ -46,7 +46,7 @@
             "title":"EarthonPor White T-shirt",
             "description":"The hem comes to just above the knee, for a look that’s both smart and eye-catching. This is short enough to be flirty, but still long enough to be appropriate for most events Above-the-knee dresses will always look great with either sneakers or heels.",
             "price": 999,
-            "availableSizes": ["S","X","XXL"]
+            "availableSizes": ["S","L"]
         },
         {
             "_id":"dress7",
@@ -54,7 +54,7 @@
             "title":"Hero - Maroon color T-shirt",
             "description":"This is the latest one piece dress in the market with astonishing red color to get the attention and also it's trending",
             "price": 449,
-            "availableSizes": ["S","M"]
+            "availableSizes": ["XS","S","M"]
         },
         {
             "_id":"dress8",
@@ -62,7 +62,7 @@
             "title":"No one Cares - White T-shirt",
             "description":"The beautiful blue color will have you feeling good inside and out and the asymmetrical design will accentuate your shapely shoulders and collarbones and will balance your shape. The natural waistline design follows the natural curves of your body to create a form-flattering shape.",
             "price": 749,
-            "availableSizes": ["M","XL"]
+            "availableSizes": ["M"]
         },
         {
             "_id":"dress9",
@@ -70,7 +70,7 @@
             "title":"Light blue Denim jacket",
             "description":"The beautiful blue color will have you feeling good inside and out and the asymmetrical design will accentuate your shapely shoulders and collarbones and will balance your shape. The natural waistline design follows the natural curves of your body to create a form-flattering shape.",
             "price": 1499,
-            "availableSizes": ["S","XXL"]
+            "availableSizes": ["XS","XXL"]
         },
         {
             "_id":"dress10",
@@ -78,7 +78,7 @@
             "title":"Brown Ladies Jacket",
             "description":"Perfect for the beach or the city, you’ll be dazzling in this stunning garment that shows off your sense of style, sophistication, and flair for fun. You’ll always look and feel your absolute best in this Striped Summer Chiffon Dress with Roll-up Sleeves which will soon become your summer favorite.",
             "price": 1999,
-            "availableSizes": ["m","X"]
+            "availableSizes": ["M","L"]
         },
         {
             "_id":"dress11",
@@ -86,7 +86,7 @@
             "title":"Ladies White Hoodie SnoWear",
             "description":"Perfect for the beach or the city, you’ll be dazzling in this stunning garment that shows off your sense of style, sophistication, and flair for fun. You’ll always look and feel your absolute best in this Striped Summer Chiffon Dress with Roll-up Sleeves which will soon become your summer favorite.",
             "price": 1749,
-            "availableSizes": ["S","X","XL"]
+            "availableSizes": ["S","L","XL"]
         },
         {
             "_id":"dress12",
@@ -94,7 +94,7 @@
             "title":"Men Sweat jacket White color",
             "description":"If you’ve been thinking of treating yourself to a new summer wardrobe, you don’t want to pass on this beautiful summer floral dress. There’s no better way to express to yourself than with a new outfit that will stand out and turn heads.",
             "price": 899,
-            "availableSizes": ["S","M","X","XL","XXL"]
+            "availableSizes": ["XS","M","L","XXL"]
         }        
     ]
 }
