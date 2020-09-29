@@ -17,7 +17,7 @@ class App extends React.Component {
   }
 
   createOrder = (order) => {
-    alert("Need to save order for " + order.name)
+    alert("Need to save order for ",+ order.name)
   }
 
   sortProducts = (e) => {
@@ -95,7 +95,6 @@ class App extends React.Component {
       </div>
     );
   }
-
 }
 
 export default App;

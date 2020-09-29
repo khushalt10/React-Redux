@@ -4,7 +4,7 @@
             "_id":"dress1",
             "image": "/images/dress1.jpg",
             "title":"Red One piece",
-            "description":"Maroon and olive green printed woven maxi dress, has a shirt collar, short sleeves, button closure and flared hem. Replace some of your outdated essentials with this beautiful dress from U&F. When you're going to an art gallery opening or the theater, wear this printed maroon piece with platform heels and a trendy clutch.",
+            "description":"Maroon and olive green printed woven maxi dress, has a shirt collar, short sleeves, button closure and flared hem. Replace some of your outdated essentials with this beautiful dress from U&F. When you're going to an art gallery opening or the theater, wear this printed maroon piece with platform heels and a trendy clutch, Care Instructions: Machine Wash,Light and Pastel colors can be little transparent due to the nature of the fabric",
             "price": 999,
             "availableSizes": ["XS","L","XL"]
         },
@@ -12,7 +12,7 @@
             "_id":"dress2",
             "image": "/images/dress2.jpg",
             "title":"Smurphy Like White leather Jacket",
-            "description":"Black solid faux leather jacket, has a mock collar, two pockets, zip closure, long sleeves, straight hem, polyester lining",
+            "description":"Black solid faux leather jacket, has a mock collar, two pockets, zip closure, long sleeves, straight hem, polyester lining, Care Instructions: Machine Wash,Light and Pastel colors can be little transparent due to the nature of the fabric",
             "price": 1299,
             "availableSizes": ["S","XL","XXL"]
         },
@@ -20,7 +20,7 @@
             "_id":"dress3",
             "image": "/images/dress3.jpg",
             "title":"Pure Leopard Black Jacket",
-            "description":"Care Instructions machine was  Terpin Point III Full Zip Outdoor Fleece Jacket             This superbly soft, warm heritage sweater fleece features a heathered effect for texture",
+            "description":"Care Instructions machine was  Terpin Point III Full Zip Outdoor Fleece Jacket             This superbly soft, warm heritage sweater fleece features a heathered effect for texture, Care Instructions: Machine Wash,Light and Pastel colors can be little transparent due to the nature of the fabric",
             "price": 1599,
             "availableSizes": ["XS","S","M"]
         },
@@ -28,7 +28,7 @@
             "_id":"dress4",
             "image": "/images/dress4.jpg",
             "title":"Two piece black Top and Skirt",
-            "description":"The above the knee hemline creates a short and sassy look that makes gives you a long-legged slimming look. The outfit is designed to not only show off your legs but also to keep you cool and comfortable.",
+            "description":"The above the knee hemline creates a short and sassy look that makes gives you a long-legged slimming look. The outfit is designed to not only show off your legs but also to keep you cool and comfortable., Care Instructions: Machine Wash,Light and Pastel colors can be little transparent due to the nature of the fabric",
             "price": 3999,
             "availableSizes": ["XL"]
         },
@@ -36,7 +36,7 @@
             "_id":"dress5",
             "image": "/images/dress5.jpg",
             "title":"Peace Boney T-shirt(Black)",
-            "description":"The empire waistline will elongate your torso for a slimming effect on your figure and without any sleeves to get in your way of fun this dress shows off a jazzy look for those warm summer nights.",
+            "description":"The empire waistline will elongate your torso for a slimming effect on your figure and without any sleeves to get in your way of fun this dress shows off a jazzy look for those warm summer nights, Care Instructions: Machine Wash,Light and Pastel colors can be little transparent due to the nature of the fabric",
             "price": 599,
             "availableSizes": ["S","XXL"]
         },
@@ -44,7 +44,7 @@
             "_id":"dress6",
             "image": "/images/dress6.jpg",
             "title":"EarthonPor White T-shirt",
-            "description":"The hem comes to just above the knee, for a look that’s both smart and eye-catching. This is short enough to be flirty, but still long enough to be appropriate for most events Above-the-knee dresses will always look great with either sneakers or heels.",
+            "description":"The hem comes to just above the knee, for a look that’s both smart and eye-catching. This is short enough to be flirty, but still long enough to be appropriate for most events Above-the-knee dresses will always look great with either sneakers or heels, Care Instructions: Machine Wash,Light and Pastel colors can be little transparent due to the nature of the fabric",
             "price": 999,
             "availableSizes": ["S","L"]
         },
@@ -52,7 +52,7 @@
             "_id":"dress7",
             "image": "/images/dress7.jpg",
             "title":"Hero - Maroon color T-shirt",
-            "description":"This is the latest one piece dress in the market with astonishing red color to get the attention and also it's trending",
+            "description":"This is the latest one piece dress in the market with astonishing red color to get the attention and also it's trending, Care Instructions: Machine Wash,Light and Pastel colors can be little transparent due to the nature of the fabric, Care Instructions: Machine Wash,Light and Pastel colors can be little transparent due to the nature of the fabric, Care Instructions: Machine Wash,Light and Pastel colors can be little transparent due to the nature of the fabric",
             "price": 449,
             "availableSizes": ["XS","S","M"]
         },
@@ -60,7 +60,7 @@
             "_id":"dress8",
             "image": "/images/dress8.jpg",
             "title":"No one Cares - White T-shirt",
-            "description":"The beautiful blue color will have you feeling good inside and out and the asymmetrical design will accentuate your shapely shoulders and collarbones and will balance your shape. The natural waistline design follows the natural curves of your body to create a form-flattering shape.",
+            "description":"The beautiful blue color will have you feeling good inside and out and the asymmetrical design will accentuate your shapely shoulders and collarbones and will balance your shape. The natural waistline design follows the natural curves of your body to create a form-flattering shape, Care Instructions: Machine Wash,Light and Pastel colors can be little transparent due to the nature of the fabric",
             "price": 749,
             "availableSizes": ["M"]
         },
@@ -68,7 +68,7 @@
             "_id":"dress9",
             "image": "/images/dress9.jpg",
             "title":"Light blue Denim jacket",
-            "description":"The beautiful blue color will have you feeling good inside and out and the asymmetrical design will accentuate your shapely shoulders and collarbones and will balance your shape. The natural waistline design follows the natural curves of your body to create a form-flattering shape.",
+            "description":"The beautiful blue color will have you feeling good inside and out and the asymmetrical design will accentuate your shapely shoulders and collarbones and will balance your shape. The natural waistline design follows the natural curves of your body to create a form-flattering shape.Care Instructions: machine wash, Bust (S)36 (M)38 (L)40 (XL)42 (XXL)44 inches (3XL)46 inches (4XL)48 inches, Material: Poly Crepe, Fabric : 100% polyester and Weave of the fabric:Crepe, Care Instructions: Machine Wash,Light and Pastel colors can be little transparent due to the nature of the fabric",
             "price": 1499,
             "availableSizes": ["XS","XXL"]
         },
@@ -76,7 +76,7 @@
             "_id":"dress10",
             "image": "/images/dress10.jpg",
             "title":"Brown Ladies Jacket",
-            "description":"Perfect for the beach or the city, you’ll be dazzling in this stunning garment that shows off your sense of style, sophistication, and flair for fun. You’ll always look and feel your absolute best in this Striped Summer Chiffon Dress with Roll-up Sleeves which will soon become your summer favorite.",
+            "description":"Perfect for the beach or the city, you’ll be dazzling in this stunning garment that shows off your sense of style, sophistication, and flair for fun. You’ll always look and feel your absolute best in this Striped Summer Chiffon Dress with Roll-up Sleeves which will soon become your summer favorite., Care Instructions: Machine Wash,Light and Pastel colors can be little transparent due to the nature of the fabric",
             "price": 1999,
             "availableSizes": ["M","L"]
         },
@@ -84,7 +84,7 @@
             "_id":"dress11",
             "image": "/images/dress11.jpg",
             "title":"Ladies White Hoodie SnoWear",
-            "description":"Perfect for the beach or the city, you’ll be dazzling in this stunning garment that shows off your sense of style, sophistication, and flair for fun. You’ll always look and feel your absolute best in this Striped Summer Chiffon Dress with Roll-up Sleeves which will soon become your summer favorite.",
+            "description":"Perfect for the beach or the city, you’ll be dazzling in this stunning garment that shows off your sense of style, sophistication, and flair for fun. You’ll always look and feel your absolute best in this Striped Summer Chiffon Dress with Roll-up Sleeves which will soon become your summer favorite., Care Instructions: Machine Wash,Light and Pastel colors can be little transparent due to the nature of the fabric",
             "price": 1749,
             "availableSizes": ["S","L","XL"]
         },
@@ -92,7 +92,7 @@
             "_id":"dress12",
             "image": "/images/dress12.jpg",
             "title":"Men Sweat jacket White color",
-            "description":"If you’ve been thinking of treating yourself to a new summer wardrobe, you don’t want to pass on this beautiful summer floral dress. There’s no better way to express to yourself than with a new outfit that will stand out and turn heads.",
+            "description":"If you’ve been thinking of treating yourself to a new summer wardrobe, you don’t want to pass on this beautiful summer floral dress. There’s no better way to express to yourself than with a new outfit that will stand out and turn heads, Care Instructions: Machine Wash,Light and Pastel colors can be little transparent due to the nature of the fabric",
             "price": 899,
             "availableSizes": ["XS","M","L","XXL"]
         }        
