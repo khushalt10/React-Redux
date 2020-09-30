@@ -4,13 +4,18 @@ import thunk from 'redux-thunk'
 import {productsReducer} from './reducers/productReducers';
 
 const initialState = {};
-const composeEnhancer = window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE || compose;
+const composeEnhancers =
+  typeof window === 'object' &&
+  window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__ ?   
+    window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__({
+      // Specify extension’s options like name, actionsBlacklist, actionsCreators, serialize...
+    }) : compose;
 
 const store = createStore(combineReducers({
     products: productsReducer,
 }),
     initialState,
-    composeEnhancer(applyMiddleware(thunk))
+    composeEnhancers(applyMiddleware(thunk))
 )
 
 export default store;
