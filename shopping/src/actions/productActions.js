@@ -27,7 +27,7 @@ export const sortProducts = (filterProducts, sort) => (dispatch) => {
         sortedProducts.sort((a,b) => (a._id > b._id ? 1 : -1));
     }else {
         sortedProducts.sort((a,b) => 
-            sort === "lowest"? a.price > b.price ? 1 : -1 :
+            sort === "highest"? a.price > b.price ? 1 : -1 :
             a.price > b.price ? -1 : 1
         )
     }
